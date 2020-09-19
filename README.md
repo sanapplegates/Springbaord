@@ -1,6 +1,6 @@
-# Springbaord
+# Springboard Data Science  Career Track
 Exercises for Data Science
 
-All the projects done in the Data Science Career Track course 
+The projects done in the Data Science Career Track course 
 
-Springboard Course May batch 2020 - NOV 2020
+Springboard Course May batch 2020 - Nov 2020
